@@ -1,6 +1,9 @@
 Project 1
+
 Operating systems
+
 Spring 2025
+
 3/22/2025
 
 Overview: What algorithms were implemented?
